@@ -1,5 +1,4 @@
 # CAMEL-CANINE
----
 ## How to Install
 ### Dependencies
 - Eigen
