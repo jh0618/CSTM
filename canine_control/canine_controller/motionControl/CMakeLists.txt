@@ -1,0 +1,5 @@
+add_subdirectory(ControlMain)
+add_subdirectory(ControlUtils)
+add_subdirectory(TorqueGenerator)
+add_subdirectory(ReferenceGenerator)
+add_subdirectory(StateEstimator)
